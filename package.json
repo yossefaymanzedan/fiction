@@ -1,0 +1,14 @@
+{
+  "name": "fiction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "live-sass": "node-sass -w main.scss style.css"
+  },
+  "author": "YAZ",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
